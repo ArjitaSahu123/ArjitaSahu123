@@ -59,8 +59,9 @@ I am a **BTech CSE student** passionate about **AI, machine learning, web develo
 
 ## 📊 **GitHub Stats**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjita&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjita&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjita&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjita&show_icons=true&theme=radical) 
+![Java](https://img.shields.io/badge/Java-Expert-orange?style=for-the-badge&logo=java)
+
 
 ---
 
