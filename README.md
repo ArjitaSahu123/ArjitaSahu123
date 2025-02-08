@@ -2,7 +2,7 @@
 
 🚀 **Java Developer | AI & ML Enthusiast | Tech Innovator**  
 
-I am a **BTech CSE student** passionate about **AI, machine learning, web development, and space technology**. Currently working as a **Java Development Intern at Infosys**, I have contributed to **real-world AI applications, rocketry projects, and software solutions**. My goal is to **develop cutting-edge technology that solves real-world problems**.  
+I am a **BTech CSE student** passionate about **AI, machine learning, web development, and space technology**. Worked as a **Java Development Intern at Infosys**, I have contributed to **real-world AI applications, rocketry projects, and software solutions**. My goal is to **develop cutting-edge technology that solves real-world problems**.  
 
 ---
 
@@ -58,9 +58,11 @@ I am a **BTech CSE student** passionate about **AI, machine learning, web develo
 ---
 
 ## 📊 **GitHub Stats**  
+## 📊 GitHub Insights  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjita&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjita&show_icons=true&theme=radical) 
-![Java](https://img.shields.io/badge/Java-Expert-orange?style=for-the-badge&logo=java)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjita&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjita&layout=compact&theme=radical)  
+![Java](https://img.shields.io/badge/Java-Dominant-blue?style=for-the-badge&logo=java)  <!-- Replace with your top language -->
 
 
 ---
