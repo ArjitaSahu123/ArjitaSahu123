@@ -1,67 +1,63 @@
 # 👋 Hey there, I'm Arjita!  
 
-🚀 **Java Developer | AI & ML Engineer | Software Innovator**  
+🚀 **Java Developer | AI & ML Enthusiast | Tech Innovator**  
 
-I am a **BTech CSE student** with a passion for **software development, AI, and space technology**. Currently a **Java Development Intern at Infosys**, I specialize in **building scalable solutions in AI, ML, and full-stack development**. My work spans **machine learning in food safety, IoT-based soil health monitoring, and rocketry software**.  
-
-With hands-on experience in **Java, Python, web development, and database systems**, I aim to create **cutting-edge innovations that solve real-world problems**.  
+I am a **BTech CSE student** passionate about **AI, machine learning, web development, and space technology**. Currently working as a **Java Development Intern at Infosys**, I have contributed to **real-world AI applications, rocketry projects, and software solutions**. My goal is to **develop cutting-edge technology that solves real-world problems**.  
 
 ---
 
-## 🌟 **Key Highlights**  
-✅ **Java Development Intern at Infosys** – Building enterprise-level applications.  
-✅ **AI & ML Enthusiast** – Implementing deep learning in food quality & soil monitoring.  
-✅ **Open Source Contributor (GSSoC)** – Driving tech advancements.  
-✅ **Rocketry & Space Tech Developer** – Created telemetry-based **Ground Control Software**.  
-✅ **Finalist – NASA Space Apps Challenge** *(Team: Cosmic Innovators)*.  
-
----
-
-## 🚀 **Projects & Innovations**  
+## 🚀 **Projects & Research**  
 
 ### 🌱 AI in Soil & Water Management  
-📖 *Book Chapter Contributor* | **IoT-based AI system** for soil & water monitoring using real-time sensor data.  
+📖 *Book Chapter Contributor* | AI-based **soil & water monitoring** using **IoT sensors** and **satellite data**.  
 🔗 **[Read More](#)**  
 
 ### 🍽 Real-Time Food Quality & Safety Assurance  
-🧠 **Deep learning model** detecting food nutrients, harmful substances, and spoilage.  
+🧠 **Deep learning** for detecting food quality, harmful ingredients, and spoilage.  
 🔗 **[Read More](#)**  
 
 ### 🛰 Rocketry Ground Control Software  
-📡 **Real-time telemetry & command system** for tracking rocket flights.  
+🔹 **Real-time telemetry & command system** for rocketry projects using **CustomTkinter & MongoDB**.  
 🔗 **[Read More](#)**  
 
-### 📊 Spacepedia – Space Learning Platform  
-🌌 **Web-based educational tool** for space tech enthusiasts.  
+### 📊 Spacepedia  
+🌌 **An educational platform** providing insights into space technology and exploration.  
 🔗 **[Read More](#)**  
 
-### 🔢 Full-Stack Web Projects  
-🌐 **Calculator Portfolio & Zomato Landing Page** – Showcasing UI/UX skills.  
+### 🔢 Calculator Portfolio | Zomato Landing Page  
+🌐 **Web development projects** showcasing UI/UX skills.  
 🔗 **[Read More](#)**  
 
 ---
 
-## 💻 **Tech Stack & Tools**  
-🔹 **Programming Languages:** Java, Python, C, C++  
-🔹 **Web Technologies:** HTML, CSS, JavaScript, Node.js, Express.js  
-🔹 **Databases:** MongoDB, Firebase, SQL  
-🔹 **AI & ML Tools:** TensorFlow, OpenCV, Matplotlib  
-🔹 **UI/UX & Visualization:** CustomTkinter, Folium  
+## 🔧 **Tech Stack & Tools**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3776AB?style=for-the-badge)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-Expert-blue?style=for-the-badge).
 
 ---
 
-## 🏆 **Professional Experience & Achievements**  
+## 🏆 **Achievements & Experience**  
 
-🔹 **Java Development Intern @ Infosys** *(Oct 2024 - Present)*  
-🔹 **Open Source Contributor @ GSSoC** *(May 2024 - Present)*  
-🔹 **Intern @ SOULO LLP** *(June 2024 - Present)*  
-🔹 **Intern @ CodSoft** *(Dec 2023 - Jan 2024)*  
-🔹 **NASA Space Apps Challenge Finalist** *(Team: Cosmic Innovators)*  
-🔹 **Multiple Hackathon Participant & Scholar at PSIT**  
+- **Java Development Intern @ Infosys** *(Oct 2024 - Present)*  
+- **Open Source Contributor @ GSSoC** *(May 2024 - Present)*  
+- **Intern @ SOULO LLP** *(June 2024 - Present)*  
+- **Intern @ CodSoft** *(Dec 2023 - Jan 2024)*  
+- **Multiple Hackathon Participant & Scholar at PSIT**  
 
 ---
 
-## 📊 **GitHub Insights**  
+## 📊 **GitHub Stats**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjita&theme=radical)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjita&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjita&layout=compact&theme=radical)  
@@ -69,7 +65,7 @@ With hands-on experience in **Java, Python, web development, and database system
 ---
 
 ## 📬 **Let's Connect**  
-🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/arjita/)  
-📧 **Email:** arjita@example.com  
+📌 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/arjita-sahu-578a53259)  
+📌 **Email:** arjitasahu.2020@gmail.com  
 
 💡 *"Code, Innovate, and Make an Impact!"* 🚀  
