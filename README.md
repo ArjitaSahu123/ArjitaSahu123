@@ -11,21 +11,21 @@ I'm a **B.Tech CSE student** passionate about building impactful tech — from *
 ## 🚀 Projects & Research
 
 ### 🛰️ CanSat Ground Control System  
-🔧 Built a **real-time telemetry & command software** using Python & MongoDB for student satellite launches.  
-🔍 Features: live serial data parsing, stateful UI, and CSV logging.
+- Built a **real-time telemetry & command software** using Python & MongoDB for student satellite launches.  
+- Features: live serial data parsing, stateful UI, and CSV logging.
 
 ### 🧠 Deepfake Detection Pipeline  
-🎭 Developed a **DCGAN + CNN ensemble** model for fake face image detection.  
-📈 Includes evaluation on external datasets and real/fake image classification logic.
+- Developed a **DCGAN + CNN ensemble** model for fake face image detection.  
+- Includes evaluation on external datasets and real/fake image classification logic.
 
 ### 💼 EduConsultancy Platform  
-🌐 Created a **Spring Boot-based web app** for education consultants with user auth, dashboards, and MySQL backend.
+- Created a **Spring Boot-based web app** for education consultants with user auth, dashboards, and MySQL backend.
 
 ### 🌱 Soil & Water Monitoring (Research Chapter)  
-📖 Wrote a **research chapter** on AI + IoT in agriculture using sensor fusion & satellite imagery.
+- Wrote a **research chapter** on AI + IoT in agriculture using sensor fusion & satellite imagery.
 
 ### 🌌 Spacepedia  
-🪐 A space-themed platform with curated content on astronomy, space missions, and ISRO projects.
+- A space-themed platform with curated content on astronomy, space missions, and ISRO projects.
 
 ---
 
