@@ -2,50 +2,46 @@
 
 🎯 **Software Developer | AI & ML Enthusiast | Space Tech Explorer**
 
-I’m a **B.Tech CSE student** passionate about **AI, software systems, and space technology**. I’ve worked on projects involving **deepfake detection**, **real-time telemetry software for CanSat rockets**, and **IoT-based environmental monitoring**. I'm focused on building intelligent and scalable systems that solve meaningful real-world problems.
+I'm a **B.Tech CSE student** passionate about building impactful tech — from **deep learning pipelines** and **real-time telemetry systems**, to **Java-based web platforms** and **AI for sustainability**. I love fusing creativity with code to craft solutions that matter.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArjitaSahu123&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-## 🛠️ Projects & Research
+## 🚀 Projects & Research
 
 ### 🛰️ CanSat Ground Control System  
-🚀 Developed a **real-time telemetry & command interface** using **Python, MongoDB, and CustomTkinter** for student satellite missions.  
-📡 Key features: serial data acquisition, live plotting, flight state-based command execution, and CSV logging.
+🔧 Built a **real-time telemetry & command software** using Python & MongoDB for student satellite launches.  
+🔍 Features: live serial data parsing, stateful UI, and CSV logging.
 
 ### 🧠 Deepfake Detection Pipeline  
-🔍 Created an **AI-based system** using **DCGANs** and **ensemble CNNs** to classify real vs. fake faces.  
-📊 Implemented model training, GAN image generation, validation on external datasets, and ensemble decision-making.
+🎭 Developed a **DCGAN + CNN ensemble** model for fake face image detection.  
+📈 Includes evaluation on external datasets and real/fake image classification logic.
 
-### 📘 AI for Soil & Water Management (Book Chapter)  
-🌱 Contributed a **research chapter** on AI applications in **sustainable agriculture** using **IoT sensors and satellite data** for environmental health monitoring.
+### 💼 EduConsultancy Platform  
+🌐 Created a **Spring Boot-based web app** for education consultants with user auth, dashboards, and MySQL backend.
+
+### 🌱 Soil & Water Monitoring (Research Chapter)  
+📖 Wrote a **research chapter** on AI + IoT in agriculture using sensor fusion & satellite imagery.
 
 ### 🌌 Spacepedia  
-🪐 Developed an **educational platform** offering curated and interactive content on **space technology, ISRO missions**, and astronomy.
+🪐 A space-themed platform with curated content on astronomy, space missions, and ISRO projects.
 
 ---
 
-## 💼 Experience
+## 🧰 Tech Stack (Organized by Domain)
 
-### 💻 Infosys Springboard – Java Development Intern  
-📌 Worked on enterprise-grade Java projects focusing on object-oriented principles and testing methodologies.  
-📌 Gained hands-on experience with **Spring Boot**, **clean code practices**, and backend logic building.
-
----
-
-## 🧰 Tech Stack (Domain-wise)
-
-| Domain                        | Technologies & Tools                                                                 |
-|-------------------------------|---------------------------------------------------------------------------------------|
-| 🌐 **Web Development**         | HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, Firebase, React *(exploring)* |
-| 🧠 **AI / ML / Data Science**  | Python, TensorFlow, Keras, OpenCV, Matplotlib, CNNs, DCGANs, Scikit-learn, Pandas, NumPy |
-| 🔧 **System Programming & IoT**| Python Serial Communication, CustomTkinter, CSV Logging, NoSQL Databases             |
-| 💻 **Core Programming & Tools**| Java, C, C++, SQL, MySQL, Git, GitHub, VS Code, Jupyter Notebook                    |
+| Domain                | Tools & Technologies                                                                 |
+|-----------------------|----------------------------------------------------------------------------------------|
+| 🌐 Web Development     | HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, Firebase, React               |
+| 💻 Backend Systems     | Java, Spring Boot, MySQL, REST APIs, Firebase Auth                                   |
+| 🧠 AI / ML / CV        | Python, TensorFlow, Keras, OpenCV, CNNs, GANs, Scikit-learn, Pandas, Matplotlib      |
+| 🚀 Systems / IoT       | CustomTkinter, Python Serial, Real-Time Logging, CSV Tools                           |
+| 🛠️ Tools & Platforms  | Git, GitHub, VS Code, Jupyter, Postman                                                |
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArjitaSahu123&show_icons=true&theme=tokyonight" height="165"/>
@@ -68,11 +64,9 @@ I’m a **B.Tech CSE student** passionate about **AI, software systems, and spac
 
 ## 🌐 Let's Connect
 
-📫 **Reach out to collaborate or chat:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/arjita-sahu/)  
-💻 [GitHub](https://github.com/ArjitaSahu123)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arjita-sahu/)
+- 📫 arjitasahu.2020@gmail.com <!-- Update with actual email or use LinkedIn -->
 
 ---
 
 > _“Code like there’s no tomorrow. Debug like you live forever.”_
-
