@@ -4,6 +4,8 @@
 
 I’m a **B.Tech CSE student** passionate about **AI, software systems, and space technology**. I’ve worked on projects involving **deepfake detection**, **real-time telemetry software for CanSat rockets**, and **IoT-based environmental monitoring**. I'm focused on building intelligent and scalable systems that solve meaningful real-world problems.
 
+![Profile Views](https://komarev.com/ghpvc/?username=ArjitaSahu123&label=Profile%20Views&color=0e75b6&style=flat)
+
 ---
 
 ## 🛠️ Projects & Research
@@ -43,5 +45,34 @@ I’m a **B.Tech CSE student** passionate about **AI, software systems, and spac
 
 ---
 
-📫 **Let’s connect!**  
-🔗 [LinkedIn](https://www.linkedin.com/in/arjita-sahu/) • [GitHub](https://github.com/ArjitaSahu123)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArjitaSahu123&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjitaSahu123&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjitaSahu123&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArjitaSahu123&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+📫 **Reach out to collaborate or chat:**  
+🔗 [LinkedIn](https://www.linkedin.com/in/arjita-sahu/)  
+💻 [GitHub](https://github.com/ArjitaSahu123)
+
+---
+
+> _“Code like there’s no tomorrow. Debug like you live forever.”_
+
